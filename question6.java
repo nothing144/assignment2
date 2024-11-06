@@ -7,6 +7,6 @@ public static void main(String[] args) {
 	int t = sc.nextInt();
 	float d = (0.5f)*32.174f*t*t; 
 System.out.println("Distance travelled " + d);	
-
+sc.close();
  }
 }
