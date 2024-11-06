@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	int celcius = (int) ((temperature-32)*(5.0/9));
 	
 	System.out.println( "temperature in celcius" + celcius);
-	
+	sc.close();
 	
  }
 }
