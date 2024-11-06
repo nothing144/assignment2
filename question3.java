@@ -11,6 +11,7 @@ public class question3 {
 		System.out.println("DA is " + DA);
 		System.out.println("HRA is " + HRA);
 		System.out.println("Gross Salary is " + GrossSalary);
+		sc.close();
 		
 	}
 
