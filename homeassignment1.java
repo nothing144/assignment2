@@ -9,6 +9,7 @@ public class homeassignment1 {
 		int year = totaldays/365;
 		int days = totaldays%365; 
 		System.out.println(minutes + " is approximatly " + year + " years and " + days);
+		sc.close();
 	}
 
 }
