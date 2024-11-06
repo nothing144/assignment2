@@ -21,6 +21,6 @@ public class question7 {
 		System.out.println(a3 +"\t "+ b3 + "\t " + (int) Math.pow(a3, b3));
 		System.out.println(a4 +"\t "+ b4 + "\t " + (int)Math.pow(a4, b4));
 		System.out.println(a5 +"\t "+ b5 + "\t " +(int) Math.pow(a5, b5)); 
-		
+		sc.close();
 	}
 }
