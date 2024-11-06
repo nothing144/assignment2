@@ -9,6 +9,7 @@ public class question5 {
 		float volume = (2.0f/3.14f)*radius * radius * radius;
 		System.out.println("area of hemisphere " + area);
 		System.out.println("volume of hemisphere " + volume);
+		sc.close();
 	}
 
 }
