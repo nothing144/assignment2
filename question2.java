@@ -13,6 +13,7 @@ public class question2 {
 		System.out.println(km + " km is " + feet + " feet");
 		System.out.println(km + " km is " + inch + " inch");
 		System.out.println(km + " km s " + centimeter + " centimeter" );
+		sc.close();
 	}
 
 }
