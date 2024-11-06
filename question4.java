@@ -9,7 +9,7 @@ public class question4 {
 		int num2 = (num/10)%10;
 		int num3 = (num/100)%10;
 		System.out.println(num1  + num2 + num3); 
-				
+		sc.close();		
 	}
 
 }
