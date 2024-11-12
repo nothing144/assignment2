@@ -16,7 +16,7 @@ public class question7 {
 		int b4 = sc.nextInt();
 		int b5 = sc.nextInt();
 		System.out.println("a\t b\t pow(a, b)");
-		// Math.pow(a, b) gives b^a means if a = 2 and b =3 output will be 9
+		// Math.pow(a, b) gives b^a means if a = 2 and b =3 output will be 8
 		System.out.println( a1 +"\t "+ b1 + "\t " + (int) Math.pow(a1, b1));
 		System.out.println(a2 +"\t "+ b2 + "\t " + (int) Math.pow(a2, b2));
 		System.out.println(a3 +"\t "+ b3 + "\t " + (int) Math.pow(a3, b3));
