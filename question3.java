@@ -7,7 +7,7 @@ public class question3 {
 		long BasicSalary = sc.nextLong();
 		double DA = BasicSalary * 0.4d;
 		double HRA = BasicSalary * 0.2d;
-		double GrossSalary = BasicSalary - DA - HRA;
+		double GrossSalary = BasicSalary + DA + HRA;
 		System.out.println("DA is " + DA);
 		System.out.println("HRA is " + HRA);
 		System.out.println("Gross Salary is " + GrossSalary);
