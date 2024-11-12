@@ -3,7 +3,7 @@ import java.util.*;
 public class question7 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-//     
+//     using user input
 		System.out.println("input a1--a5 and b1--b5");
 		int a1 = sc.nextInt();
 		int a2 = sc.nextInt();
