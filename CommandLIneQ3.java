@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class DiceSum {
+public class Q3 {
     public static void main(String[] args) {
         // Create an instance of Random
         Random random = new Random();
